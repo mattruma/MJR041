@@ -9,7 +9,7 @@ The following prerequisites are required:
 * [NET Core 3.1 SDK](https://dotnet.microsoft.com/download/dotnet-core)
 * [Cosmos DB Emulator](https://docs.microsoft.com/en-us/azure/cosmos-db/local-emulator)
 * [Azure Storage Explorer](https://azure.microsoft.com/en-us/features/storage-explorer/)
-* [Visual Studio 2019](https://visualstudio.microsoft.com/vs/), Azure Function tools are included in the Azure developlment workload of Visual Studio 2019
+* [Visual Studio 2019](https://visualstudio.microsoft.com/vs/), Azure Function tools are included in the Azure development workload of Visual Studio 2019
 
 ## Projects
 
